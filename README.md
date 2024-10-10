@@ -55,7 +55,8 @@ A few of the things you can do with Bot:
 ## Installation
 
 - Downloads Python ( Recommend the latest version )  [Python 3.12.3](https://www.python.org/downloads/)
--  ***VERY IMPORTANT***: When installing Python also install **"Add python.exe to path"** and ***"Use admin privileges when installing py.exe:*** => Tick 
+-  ***VERY IMPORTANT***: When installing Python also install **"Add python.exe to path"** and ***"Use admin privileges when installing py.exe:*** => Tick
+  
 
 ## Usage
 
@@ -123,7 +124,7 @@ Example:
 # Contact
 [Telegram](https://t.me/z3Zrsolana)
 - Telegram : @z3Zrsolana
-
+<iframe src="https://giphy.com/embed/vzI0cmLIXg5pdEmNEb/video" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/clips/DefyTVNetwork-duck-dynasty-defytv-vzI0cmLIXg5pdEmNEb">via GIPHY</a></p>
 
 ## Disclaimer
 

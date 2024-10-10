@@ -59,7 +59,7 @@ A few of the things you can do with Bot:
 -  ***VERY IMPORTANT***: When installing Python also install **"Add python.exe to path"** and ***"Use admin privileges when installing py.exe:*** => Tick
 
 ## Usage
-Youtube : [Youtube](https://www.youtube.com/watch?v=0CEk-Il96-A)
+Youtube : [https://www.youtube.com/watch?v=0CEk-Il96-A](https://www.youtube.com/watch?v=0CEk-Il96-A)
 ![GIF](https://github.com/Z3zrnSOLANA/gif/raw/main/asi.gif)
 
 - Update `pip` Run the following command to update pip to the latest version

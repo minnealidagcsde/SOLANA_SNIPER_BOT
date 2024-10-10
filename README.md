@@ -137,4 +137,4 @@ Example:
 - The snippets are unaudited. Use at your own risk.
 - Enjoy
 
-<center> ![Happy_GIF](https://media.giphy.com/media/erePhJFWkfYMwTpNT8/giphy.gif) </center>
+ <p align="center">![Happy_GIF](https://media.giphy.com/media/erePhJFWkfYMwTpNT8/giphy.gif) </p>

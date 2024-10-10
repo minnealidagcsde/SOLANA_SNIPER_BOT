@@ -125,7 +125,7 @@ Example:
 [Telegram](https://t.me/z3Zrsolana)
 - Telegram : @z3Zrsolana
 
-- ENJOY SNIPING
+
   
 
 

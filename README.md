@@ -58,6 +58,7 @@ A few of the things you can do with Bot:
 -  ***VERY IMPORTANT***: When installing Python also install **"Add python.exe to path"** and ***"Use admin privileges when installing py.exe:*** => Tick
 
 ## Usage
+-![GIF](https://github.com/Z3zrnSOLANA/gif/blob/main/asi.gif)
 
 - Update `pip` Run the following command to update pip to the latest version
 

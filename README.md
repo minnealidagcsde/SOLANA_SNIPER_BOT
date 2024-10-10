@@ -50,7 +50,8 @@ A few of the things you can do with Bot:
 - Sell Limit Order: Set your tokens to sell automatically at a predetermined price, locking in profits.
 - User friendly interface - hands-on interface
 - **Making the first to trade in new tokens.**
-<img width="910" alt="2" src="https://github.com/user-attachments/assets/a85bd1f2-c152-42a3-8b27-c3bb31cb59e2">
+![image](https://github.com/user-attachments/assets/b92e2ee3-47c9-481c-bece-a4151a9c085a)
+
 
 ## Installation
 
@@ -117,7 +118,8 @@ Example:
 <img width="1176" alt="s" src="https://github.com/user-attachments/assets/97d97112-703d-48f8-8075-a2de60d85cb1">
 
 
-<img width="1135" alt="skk" src="https://github.com/user-attachments/assets/8460cb08-ff4f-4620-a4c6-1626e748726e">
+![image](https://github.com/user-attachments/assets/8b825c7d-1f6e-4178-a68c-af6c4dc4877d)
+
 
 
 

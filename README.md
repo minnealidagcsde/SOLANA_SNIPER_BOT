@@ -127,7 +127,7 @@ Example:
 
 - ENJOY SNIPING
   
--![Happy_GIF](https://media.giphy.com/media/erePhJFWkfYMwTpNT8/giphy.gif)
+
 
 
 ## Disclaimer
@@ -135,3 +135,5 @@ Example:
 - This extension is not affiliated with Solana Foundation or Solana Labs. It is a non-profit community project.
 - Solana Snipe is in active development, so all the snippets are subject to change.
 - The snippets are unaudited. Use at your own risk.
+- Enjoy!!!!
+![Happy_GIF](https://media.giphy.com/media/erePhJFWkfYMwTpNT8/giphy.gif)

@@ -125,7 +125,8 @@ Example:
 - Telegram : @z3Zrsolana
 
 - ENJOY SNIPING
-![Happy GIF](https://media.giphy.com/media/erePhJFWkfYMwTpNT8/giphy.gif)
+  
+-![Happy GIF](https://media.giphy.com/media/erePhJFWkfYMwTpNT8/giphy.gif)
 
 
 ## Disclaimer

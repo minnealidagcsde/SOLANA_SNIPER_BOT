@@ -136,4 +136,4 @@ Example:
 - Solana Snipe is in active development, so all the snippets are subject to change.
 - The snippets are unaudited. Use at your own risk.
 - Enjoy!!!!
-![Happy_GIF](https://media.giphy.com/media/erePhJFWkfYMwTpNT8/giphy.gif)
+-![Happy_GIF](https://media.giphy.com/media/erePhJFWkfYMwTpNT8/giphy.gif)

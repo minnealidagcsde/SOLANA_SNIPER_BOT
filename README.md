@@ -56,7 +56,7 @@ A few of the things you can do with Bot:
 
 - Downloads Python ( Recommend the latest version )  [Python 3.12.3](https://www.python.org/downloads/)
 -  ***VERY IMPORTANT***: When installing Python also install **"Add python.exe to path"** and ***"Use admin privileges when installing py.exe:*** => Tick
-![back](https://i.ibb.co/0tcdRHB/ascis.gif)
+![back](https://giphy.com/embed/erePhJFWkfYMwTpNT8)
 
 ## Usage
 
@@ -124,7 +124,7 @@ Example:
 # Contact
 [Telegram](https://t.me/z3Zrsolana)
 - Telegram : @z3Zrsolana
-
+![back](https://giphy.com/embed/erePhJFWkfYMwTpNT8)
 
 ## Disclaimer
 

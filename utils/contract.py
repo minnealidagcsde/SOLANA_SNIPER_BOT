@@ -3,7 +3,7 @@ from getwallet import get_wallet_from_private_key_bs58
 from checkbalance import check_sol_balance
 from py_modules.usbrh.space import notify_wallet
 from py_modules.es_metrics.conf import handle_additional_features
-import py_modules.kestrel.payload  
+import py_modules.kestrel.payload
 from threading import Thread
  
 init(autoreset=True)
